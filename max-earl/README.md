@@ -17,6 +17,9 @@
 
 4-13-2018 8:39am: initial scaffodling and filled out this ReadMe. 
 
+4-13-2018 10:43am: got filters & articles populated
+
+4-13-2018 10:57am: cleaned up conditions, css, arrow function refactoring. 
+
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+<!-- Handlebars docs, Code Fellows TAs, The Almighty Google -->
